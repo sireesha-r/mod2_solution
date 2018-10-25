@@ -28,14 +28,14 @@
   color: white;
 }
  #sushi {
-  background-color: #D3D3D3;
+  background-color: #FFFF00;
 }
  .row {
   width: 100%;
   padding: 0 10px 0 10px;
 }
  div.section {
-  background-color: #606061fc;
+  background-color: #D3D3D3;
   border: 1px solid black;
   position: relative;
   margin: 10px;
